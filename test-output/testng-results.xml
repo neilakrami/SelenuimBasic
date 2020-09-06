@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5700" started-at="2020-08-30T10:38:02 PDT" finished-at="2020-08-30T10:38:08 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5700" started-at="2020-08-30T10:38:02 PDT" finished-at="2020-08-30T10:38:08 PDT">
+      <class name="com.syntax.testing.class02.ClassTask">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.syntax.testing.class02.ClassTask@551aa95a]" name="openBrowser" is-config="true" duration-ms="2750" started-at="2020-08-30T10:38:02 PDT" finished-at="2020-08-30T10:38:05 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.syntax.testing.class02.ClassTask@551aa95a]" name="Login" duration-ms="2842" started-at="2020-08-30T10:38:05 PDT" finished-at="2020-08-30T10:38:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.syntax.testing.class02.ClassTask@551aa95a]" name="closeBrowser" is-config="true" duration-ms="85" started-at="2020-08-30T10:38:08 PDT" finished-at="2020-08-30T10:38:08 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.syntax.testing.class02.ClassTask -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
